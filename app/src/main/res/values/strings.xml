@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">P2T2meta</string>
+    <string name="t1">Colores</string>
+    <string name="tagregar">Agragar Color</string>
+    <string name="tmostrar">Mostrar Color</string>
+    <string name="t2a">Agregar</string>
+    <string name="t2c">Color</string>
+    <string name="t2reg">Registrar</string>
+    <string name="t2regresar">Regresar</string>
+    <string name="t2mostrar">Mostrar</string>
+    <string name="t3mostrar">Mostrar</string>
+</resources>
